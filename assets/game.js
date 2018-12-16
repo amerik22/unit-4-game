@@ -3,7 +3,7 @@ var gameNumber = "";
 var wins = 0;
 var loss = 0;
 var playerScore = 0;
-var images = ["assets/images/blueGem.jpg", "assets/images/pinkGem.jpg", "assets/images/greyGem.jpg", "assets/images/purpleGem.jpg"]
+var images = ["assets/images/blueGem.jpg", "assets/images/redGem.jpg", "assets/images/greenGem.jpg", "assets/images/purpleGem.jpg"]
 
 //functions
 function randomNumber (){

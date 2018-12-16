@@ -1,0 +1,22 @@
+game with 4 crystals
+user must click crystals to get a score
+score will cumulatively add up
+score must match a randomly gnerated number to win
+Every crystal will be assigned a random number
+random number must be between 19-120
+crystal random value must be between 1-12
+the random number should generate every time we win or lose to those 4 crystals
+When clicking any crystal should add to the previous score until it matches (win) or goes over (loses)
+win increment a win
+lose increment a loss
+
+variables
+crystals
+random result
+total score
+wins
+loses
+
+var random result
+var loss
+var win
